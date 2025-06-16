@@ -12,7 +12,4 @@ feriado:12-10  // Nossa Senhora Aparecida
 feriado:02-11  // Finados
 feriado:15-11  // Proclamação da República
 feriado:25-12  // Natal
-sabado:29-03
-sabado:12-04
-sabado:10-05
-sabado:07-06
+
